@@ -12,6 +12,8 @@
 
 A fantasy name generator for Ruby.
 
+Adapted from [this post](https://skorks.com/2009/07/how-to-write-a-name-generator-in-ruby/).
+
 ## Installing
 
 <!--
