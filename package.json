@@ -1,6 +1,6 @@
 {
-  "name": "{{PKG_NAME}}",
-  "description": "{{PKG_DESC}}",
+  "name": "adventure_namer",
+  "description": "A fantasy name generator for Ruby.",
   "version": "0.1.0",
   "maintainers": [
     {
@@ -10,7 +10,7 @@
     }
   ],
   "bugs": {
-    "web": "https://github.com/{{PKG_REPO}}/issues"
+    "web": "https://github.com/Nereare/adventure_namer/issues"
   },
   "license": "MIT"
 }
