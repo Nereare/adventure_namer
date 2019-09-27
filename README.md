@@ -18,7 +18,7 @@ A fantasy name generator for Ruby.
 TODO Set installation instructions
 BODY If there is some installation method, define it on the [README file](README.md).
 -->
-1. Foo.
+To-do, sorry :cry:
 
 ## Contributing
 
