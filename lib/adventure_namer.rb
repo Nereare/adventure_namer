@@ -1,4 +1,6 @@
-require "adventure_namer/version"
+# frozen_string_literal: true
+
+require 'adventure_namer/version'
 
 module AdventureNamer
   class Error < StandardError; end
