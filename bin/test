@@ -1,0 +1,8 @@
+#!/usr/bin/env bash
+set -euo pipefail
+IFS=$'\n\t'
+set -vx
+
+rubocop -a
+bundle exec rspec spec
+yardoc --output-dir ./docs
