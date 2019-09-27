@@ -178,6 +178,7 @@ public/
 /pkg/
 /spec/reports/
 /spec/examples.txt
+.rspec_status
 /test/tmp/
 /test/version_tmp/
 /tmp/
