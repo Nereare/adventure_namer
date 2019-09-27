@@ -1,5 +1,6 @@
 # frozen_string_literal: true
 
+# Generates fantasy names.
 module AdventureNamer
   # Sets the current version of the gem
   @version = '0.1.0'
