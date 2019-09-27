@@ -12,7 +12,6 @@ Gem::Specification.new do |spec|
   spec.license       = 'MIT'
 
   spec.summary       = 'A fantasy name generator for Ruby.'
-  spec.description   = spec.summary
   spec.homepage      = 'https://github.com/Nereare/adventure_namer'
 
   spec.metadata['homepage_uri'] = spec.homepage
@@ -24,7 +23,7 @@ Gem::Specification.new do |spec|
 
   spec.files = Dir.chdir(File.expand_path(__dir__)) do
     `git ls-files -z`.split("\x0").reject do |f|
-      f.match(%r{^(test|spec|features)/})
+      f.match(%r{^(test|spec|features|\.github|docs)/})
     end
   end
   spec.bindir        = 'exe'
