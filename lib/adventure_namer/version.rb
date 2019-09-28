@@ -3,7 +3,7 @@
 # Generates fantasy names.
 module AdventureNamer
   # Sets the current version of the gem
-  @version = '0.1.0'
+  @version = '0.2.0'
 
   # Returns the Gem's current version.
   #
