@@ -9,7 +9,7 @@ Gem::Specification.new do |spec|
   spec.version       = AdventureNamer.version
   spec.authors       = ['Igor Padoim']
   spec.email         = ['igorpadoim@gmail.com']
-  spec.license       = 'MIT'
+  spec.license       = 'Hippocratic'
 
   spec.summary       = 'A fantasy name generator for Ruby.'
   spec.homepage      = 'https://github.com/Nereare/adventure_namer'
