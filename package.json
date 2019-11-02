@@ -1,7 +1,7 @@
 {
   "name": "adventure_namer",
   "description": "A fantasy name generator for Ruby.",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "maintainers": [
     {
       "name": "Igor Padoim",
@@ -12,5 +12,5 @@
   "bugs": {
     "web": "https://github.com/Nereare/adventure_namer/issues"
   },
-  "license": "MIT"
+  "license": "Hippocratic"
 }
